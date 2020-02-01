@@ -41,4 +41,5 @@ def play(board)
   until turn_count == 9
     puts "Your Turn"
     turn_count += 1
+  end
 end
